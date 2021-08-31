@@ -35,7 +35,7 @@ Replace `FirstName` and `LastName` with your first and last name.
   
 4. Write a paragraph describing a job that you think is related to data science. Include a hyperlink and an image. Make sure your answer is in a nice format to read. 
 
-    Answer: A job that I think is related to Data Science would be something like risk analysis where a company needs to look at and analyze     previous data in order to accurately assess new data. [Link to an article about data science and machine learning in assessing risk](https://towardsdatascience.com/credit-risk-modeling-with-machine-learning-8c8a2657b4c4) ![Data Science Jobs](/Users/chrisspartz/Documents/School/data-science-jobs-infographic.jpeg)
+    Answer: A job that I think is related to Data Science would be something like risk analysis where a company needs to look at and analyze     previous data in order to accurately assess new data. [Link to an article about data science and machine learning in assessing risk](https://towardsdatascience.com/credit-risk-modeling-with-machine-learning-8c8a2657b4c4) ![Data Science Jobs](data-science-jobs-infographic.jpeg)
   
 5. What data topic will you be most interested in? (Optional) Provide a source of such dataset if you have.
 
